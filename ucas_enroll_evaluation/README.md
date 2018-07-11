@@ -1,6 +1,31 @@
-# UCAS_enroll_evaluation: 中国科学院大学自动刷课、评教脚本
+# UCAS_enroll_evaluation: 中国科学院大学自动评教脚本
 
-<font color="red">评教功能经过本人修改已经很好使了，原项目地址:https://github.com/scusjs/ucas_enroll_evaluation</font>
+
+
+## 项目说明
+因为国科大每次都需要评教，需要填写的东西比较多，本人在github上面找到了这个项目，然后使用的时候还是出错了，于是修改之。
+原项目地址:https://github.com/scusjs/ucas_enroll_evaluation
+
+**评教的功能经过我的修改已经很好使了**
+
+自动刷课的功能貌似我也修改过，不过那是很久之前的事情了，代码是否能使用不确定
+
+
+## 评教使用方法
+修改config文件里面账户密码，然后merit是评价内容，一定要15字以上，不然会评教失败的
+
+
+---
+
+
+以下内容为原readme
+
+---
+
+
+
+
+
 
 ## 环境依赖
 运行环境：Python 3.3-3.5

@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Date    : 2017/2/1
-# @Author  : hrwhisper
-
 import os
 from sys import exit
 import re

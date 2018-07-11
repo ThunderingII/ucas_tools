@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Date    : 2016/9/1
-# @Author  : hrwhisper
 from __future__ import print_function
 import re
 import time
